@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/donatekart.github.io/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/donatekart.github.io/static/js/main.639868dc.chunk.js",
+    "main.js.map": "/donatekart.github.io/static/js/main.639868dc.chunk.js.map",
+    "runtime-main.js": "/donatekart.github.io/static/js/runtime-main.460e6444.js",
+    "runtime-main.js.map": "/donatekart.github.io/static/js/runtime-main.460e6444.js.map",
+    "static/js/2.bb8aff10.chunk.js": "/donatekart.github.io/static/js/2.bb8aff10.chunk.js",
+    "static/js/2.bb8aff10.chunk.js.map": "/donatekart.github.io/static/js/2.bb8aff10.chunk.js.map",
+    "static/js/3.88b8eeb2.chunk.js": "/donatekart.github.io/static/js/3.88b8eeb2.chunk.js",
+    "static/js/3.88b8eeb2.chunk.js.map": "/donatekart.github.io/static/js/3.88b8eeb2.chunk.js.map",
+    "index.html": "/donatekart.github.io/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/donatekart.github.io/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bb8aff10.chunk.js.LICENSE.txt": "/donatekart.github.io/static/js/2.bb8aff10.chunk.js.LICENSE.txt",
+    "static/media/palmleafcontainer.6b1f3ea5.jpg": "/donatekart.github.io/static/media/palmleafcontainer.6b1f3ea5.jpg",
+    "static/media/roundbowl.9f1153ec.jpg": "/donatekart.github.io/static/media/roundbowl.9f1153ec.jpg",
+    "static/media/roundplate.7f373d6e.jpg": "/donatekart.github.io/static/media/roundplate.7f373d6e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.460e6444.js",
+    "static/js/2.bb8aff10.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.639868dc.chunk.js"
+  ]
+}
